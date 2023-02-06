@@ -35,7 +35,11 @@ public class Rubric extends ArrayList<Contact> {
     }
 
     public String OutPut(){
-        return this.toString();
+        String output="";
+        for (int i = 0; i < this.size(); i++) {
+            output=output+this.get(i).toString()+"\n";
+        }
+        return output;
     }
     public boolean remove(String surname){
         for (int i = 0; i < this.size(); i++) {

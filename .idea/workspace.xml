@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2dac6d3a-074a-46b5-bb9e-d415f8022313" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayListEx.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/Rubric.java" afterDir="false" />
+    <list default="true" id="2dac6d3a-074a-46b5-bb9e-d415f8022313" name="Changes" comment="i need the main and the all output">
+      <change beforePath="$PROJECT_DIR$/src/Main/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Contact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Rubric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Rubric.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +68,14 @@
       <option name="presentableId" value="Default" />
       <updated>1675668436524</updated>
     </task>
+    <task id="LOCAL-00001" summary="i need the main and the all output">
+      <created>1675673630803</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675673630803</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,5 +88,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="i need the main and the all output" />
+    <option name="LAST_COMMIT_MESSAGE" value="i need the main and the all output" />
   </component>
 </project>

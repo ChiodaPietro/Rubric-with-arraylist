@@ -34,4 +34,7 @@ public class Contact   {
     public String getAddress() {
         return address;
     }
+    public String toString(){
+        return "name: "+name+" surname: "+surname+" number: "+phone_number+" "+address;
+    }
 }
